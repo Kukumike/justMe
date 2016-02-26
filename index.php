@@ -3,6 +3,9 @@
 <html>
     <head>
         <title>michael</title>
+        
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,800,700italic|Roboto|Ubuntu|Open+Sans+Condensed:300|Indie+Flower|Bitter|Yanone+Kaffeesatz|Passion+One|Poiret+One|Lobster|Candal|Inconsolata|Josefin+Sans|Shadows+Into+Light|Pacifico|Vollkorn|Quicksand|Orbitron|Dancing+Script' rel='stylesheet' type='text/css'>
+        
         <link href="resource/css/bootstrap.css" rel="stylesheet" type="text/css"/>
         <link href="resource/css/myStyles.css" rel="stylesheet" type="text/css"/>
         <script src="resource/js/bootstrap.min.js" type="text/javascript"></script>
