@@ -1,0 +1,68 @@
+.body {
+    padding-top: 50px;
+   }
+#my_logo{
+    margin-left: 500px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.social{
+    margin-left: 4.0em;
+    padding: 2.5em 0;
+    list-style: none;
+}
+ul.nav-bottom li a {
+    text-decoration: none;
+    color: #989696;
+    font-size: 0.8em;
+    display: inline-block;
+    margin: 0.5em 0;
+}
+ul li:hover{
+    color: green;
+}
+.subcribe_form{
+    padding-top: .5em;
+}
+/*--contact form--*/
+.contact{
+    background-color: #6f5499;
+    padding: 5em 0 0;
+}
+.btn-md{
+    width: 250px;
+    margin-left: 100px;
+}
+.contact h1{
+    text-align: center;
+    color: black;
+    margin-top: 0px;
+}
+.contact input[type="text"], .contact textarea {
+  padding: 0.8em 1em;
+  font-size: 0.85em;
+  margin:0 0 0.8em;
+  border: 1px solid #eee;
+  color: #8c8c8c;
+  background: none;
+  outline: none;
+  width: 100%;
+  -webkit-appearance: none;
+}
+.contact input[type="submit"] {
+  -webkit-appearance: none;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-size: 0.9em;
+  padding: 0.5em 1em;
+  width:100%;
+  background: none;
+}
+/*--end contact form--*/
+
+    
